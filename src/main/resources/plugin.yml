@@ -1,0 +1,11 @@
+name: Bingo
+version: ${project.version}
+main: com.siinusmc.bingo.Bingo
+api-version: 1.16
+authors: [Siinus]
+description: Bingo
+commands:
+  bingo:
+    description: Bingo
+  top:
+    description: sends you to the top
